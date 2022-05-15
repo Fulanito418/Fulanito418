@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://aperez.netlify.app/" target="blank"><img align="center" src="https://github.com/Fulanito418/readmeAssets/blob/main/profileImagesFolder/portfolioIconPNG2.png" alt="alexPerez" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alexperez418/" target="blank"><img align="center" src="https://github.com/Fulanito418/readmeAssets/blob/main/profileImagesFolder/linkedinPNG.png" alt="alexPerez" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alexperez418/" target="blank"><img align="center" src="https://github.com/Fulanito418/readmeAssets/blob/main/profileImagesFolder/linkedinPNG2.png" alt="alexPerez" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:Perez418@gmail.com"><img align="center" src="https://github.com/Fulanito418/readmeAssets/blob/main/profileImagesFolder/gmailSVG.svg" alt="alexPerez" height="40"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
