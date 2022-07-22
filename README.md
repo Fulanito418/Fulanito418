@@ -5,25 +5,25 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=a6b4a2&vCenter=true&center=true&width=460&lines=software+engineer;mets+fan;chef">
 <br>
-I'm a full stack software engineer based in New York City. After teaching math for 6 years, I decided to pursue my passion for tech. I like to stay active, enjoy cooking and love watching baseball. Let's go Mets! You can contact me at [perez418@gmail.com](mailto:perez418@gmail.com)
+I'm a full stack software engineer based in New York City. After teaching math for 6 years, I decided to pursue my passion for tech. I like to stay active, enjoy cooking and love watching baseball. Let's go Mets!
 </p>
-You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fulanito418&hide_border=true&currStreakNum=a6b4a2&ring=ffffff&background=12160F&sideLabels=ffffff&sideNums=ffffff&fire=ffffff&currStreakLabel=a6b4a2&dates=959595">
 </div>
 
 
+<!-- 
+<h2 align="left"><img src="https://github.com/Fulanito418/readmeAssets/blob/main/profileImagesFolder/rightArrowPNG.png" alt="arrow icon" height="20px"> Connect with me:</h2> -->
 
 
+<!-- <h2 align="left">Connect with me:</h2> -->
 
-<h2 align="left"><img src="https://github.com/Fulanito418/readmeAssets/blob/main/profileImagesFolder/rightArrowPNG.png" alt="arrow icon" height="20px"> Connect with me:</h2>
-
-<p align="center">
+<!-- <p align="center">
     <a href="https://aperez.netlify.app/" target="blank"><img align="center" src="https://github.com/Fulanito418/readmeAssets/blob/main/profileImagesFolder/portfolioIconPNG2.png" alt="alexPerez" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alexperez418/" target="blank"><img align="center" src="https://github.com/Fulanito418/readmeAssets/blob/main/profileImagesFolder/linkedinPNG2.png" alt="alexPerez" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:Perez418@gmail.com"><img align="center" src="https://github.com/Fulanito418/readmeAssets/blob/main/profileImagesFolder/gmailSVG.svg" alt="alexPerez" height="40"/></a>&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 
 <!-- portfolio icon attribution: <a href="https://www.flaticon.com/free-icons/work" title="work icons">Work icons created by srip - Flaticon</a> -->
@@ -31,7 +31,9 @@ You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
 
 <!-- * **Company**: -->
 
-## Social Media
+## Connect
+
+<!-- <h2 align="left">Connect with me:</h2> -->
 
 <a target="_blank" href="https://aperez.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=00c5a9&style=for-the-badge">
@@ -42,6 +44,9 @@ You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
 <a target="_blank" href="https://www.linkedin.com/in/alexperez418/">
   <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
 </a>
+ <a target="_blank" href="mailto:Perez418@gmail.com">
+    <img src="https://img.shields.io/badge/-perez418@gmail.com-272b33?logo=gmail&logoColor=1d9bf0&style=for-the-badge"/>
+  </a>
 
 
 
@@ -145,16 +150,16 @@ You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<!-- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> -->
+<!-- <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> -->
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Fulanito418/readmeAssets/blob/main/profileImagesFolder/expressgreenimg.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<!-- <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a> -->
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
@@ -164,7 +169,7 @@ You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
 
 
 
-
+<!-- 
 ## Technology
 
 ### Core
@@ -192,3 +197,4 @@ You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
 ![Netlify](https://img.shields.io/badge/Netlify-272b33?logo=netlify&logoColor=00c7b7&style=for-the-badge)
 ![VisualStudioCode](https://img.shields.io/badge/vscode-272b33?logo=visualstudiocode&logoColor=0078d4&style=for-the-badge)
 ![PhotoShop](https://img.shields.io/badge/photoshop-272b33?logo=AdobePhotoShop&logoColor=31a8ff&style=for-the-badge)
+ -->
