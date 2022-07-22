@@ -5,7 +5,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=a6b4a2&vCenter=true&center=true&width=460&lines=software+engineer;mets+fan;chef">
 <br>
-I'm a full stack software engineer based in New York City. After teaching math for 6 years, I decided to pursue my passion for tech. I like to stay active, enjoy cooking and love watching baseball. Let's go Mets!
+I'm a full stack software engineer based in New York City. After teaching math for 6 years, I decided to pursue my passion for tech. I like to stay active, enjoy cooking and love watching baseball. Let's go Mets! You can contact me at [perez418@gmail.com](mailto:perez418@gmail.com)
 </p>
 
 <div align="center">
