@@ -7,6 +7,7 @@
 <br>
 I'm a full stack software engineer based in New York City. After teaching math for 6 years, I decided to pursue my passion for tech. I like to stay active, enjoy cooking and love watching baseball. Let's go Mets! You can contact me at [perez418@gmail.com](mailto:perez418@gmail.com)
 </p>
+You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fulanito418&hide_border=true&currStreakNum=a6b4a2&ring=ffffff&background=12160F&sideLabels=ffffff&sideNums=ffffff&fire=ffffff&currStreakLabel=a6b4a2&dates=959595">
